@@ -1,0 +1,13 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.qa_tests</groupId>
+	<artifactId>WST_37</artifactId>
+	<version>1.0</version>
+	<dependencies>
+		<dependency>
+			<groupId>com.google.apis:google-api-services-androidpublisher</groupId>
+			<artifactId>httpclient</artifactId>
+			<version>v3-rev20230612-2.0.0</version>
+		</dependency>
+	</dependencies>
+</project>
